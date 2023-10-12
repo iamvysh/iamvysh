@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **track back**
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👯 I’m looking to collaborate on **open sources**
 
 - 👨‍💻 All of my projects are available at [https://iamvysh.github.io/portfolio/](https://iamvysh.github.io/portfolio/)
 
-- 💬 Ask me about **html,css,express,monngoDB,bootstrap**
+- 💬 Ask me about **html,css,express,mongoDB,bootstrap,javascript**
 
 - 📫 How to reach me **vyshnavthaithottathil@gmail.com**
 
