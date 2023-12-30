@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://iamvysh.github.io/portfolio/](https://iamvysh.github.io/portfolio/)
 
-- 💬 Ask me about **html,css,express,mongoDB,bootstrap,javascript**
+- 💬 Ask me about **html,css,javascript,React js,Node js,express js ,mongoDB,**
 
 - 📫 How to reach me **vyshnavthaithottathil@gmail.com**
 
