@@ -4,28 +4,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamvysh&label=Profile%20views&color=0e75b6&style=flat" alt="iamvysh" /> </p>
+<p align="left"> <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="iamvysh" /> </p>
 
 - 🔭 I’m currently working on **track back**
 
-- 🌱 I’m currently learning **NEXT JS**
+- 🌱 I’m currently learning **NEX JS**
 
 - 👯 I’m looking to collaborate on **open sources**
 
 - 👨‍💻 All of my projects are available at [https://iamvysh.github.io/portfolio/](https://iamvysh.github.io/portfolio/)
 
-- 💬 Ask me about **html,css,javascript,React js,Node js,express js ,mongoDB,**
+- 💬 Ask me about **HTML, CSS,javascript, React js, Node js, express js,mongoDB,**
 
 - 📫 How to reach me **vyshnavthaithottathil@gmail.com**
 
-- ⚡ what i have to say is.... **think Progress,not Perfection**
+- ⚡ what i have to say is.... **Think Progress,not Perfection**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vyshnavthaitho2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vyshnavthaitho2" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vyshnav-t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vyshnav t" height="30" width="40" /></a>
-<a href="https://fb.com/vyshnav thaithottathil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vyshnav thaithottathil" height="30" width="40" /></a>
-<a href="https://instagram.com/i__vyshnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i__vyshnav" height="30" width="40" /></a>
+<a href="https://twitter.com/vyshnavthaitho2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="vyshnavthaitho2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vyshnav-t/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="vyshnav t" height="30" width="40" /></a>
+<a href="https://fb.com/vyshnav thaithottathil" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="vyshnav thaithottathil" height="30" width="40" /></a>
+<a href="https://instagram.com/i__vyshnav" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="i__vyshnav" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
