@@ -6,15 +6,15 @@
 
 
 
-- 🔭 I’m currently working on **track back**
+- 🔭 I’m currently working on **Kodlar Innovations**
 
-- 🌱 I’m currently learning **NEX JS**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👯 I’m looking to collaborate on **open sources**
 
 - 👨‍💻 All of my projects are available at [https://iamvysh.github.io/portfolio/](https://iamvysh.github.io/portfolio/)
 
-- 💬 Ask me about **HTML, CSS,javascript, React js, Node js, express js,mongoDB,**
+- 💬 Ask me about **HTML, CSS,javascript,React js,Node js,express js,mongoDB,Redux-toolkit,Zustand,Next js,git,github**
 
 - 📫 How to reach me **vyshnavthaithottathil@gmail.com**
 
