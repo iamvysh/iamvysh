@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **open sources**
 
-- 👨‍💻 All of my projects are available at [https://iamvysh.github.io/portfolio/](https://iamvysh.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [iamVyshnav](https://iamvyshnav.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS,javascript,React js,Node js,express js,mongoDB,Redux-toolkit,Zustand,Next js,git,github**
 
